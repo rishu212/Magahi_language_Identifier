@@ -1,1 +1,1 @@
-# Magahi_language_Identifier
+# Langugae_Identification_NLP
